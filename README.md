@@ -2,9 +2,9 @@
 This is my task for applying at Protal.
 
 ## Images - 
-![](images/Pic1.PNG)
-![](images/pic2.PNG)
-![](images/pic3.PNG)
+<img src="images/Pic1.PNG" width="700">
+<img src="images/pic2.PNG" width="700">
+<img src="images/pic3.PNG" width="700">
 
 ## Use 
 1.Click On "Fetch Button" to Make the the Data card Visible. <br/>
