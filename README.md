@@ -13,4 +13,5 @@ This is my task for applying at Protal.
 
 ## Uses Fake Api
 Link -  https://my-json-server.typicode.com/Adityap-01/mockjson/posts
-<br/>The Posts display in Descending Order Of Date. 
+<br/><br/>The Posts display in Descending Order Of Date. 
+<br/> Screen - 15.7 at 100%
