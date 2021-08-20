@@ -8,4 +8,4 @@ This is my task for applying as an intern for frontend development at Protal.
 
 ## Uses Fake Api
 Link -  https://my-json-server.typicode.com/Adityap-01/mockjson/posts
-<br/>The Posts diplay in Descending Order Of Date. 
+<br/>The Posts display in Descending Order Of Date. 
